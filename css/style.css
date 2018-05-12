@@ -1,0 +1,97 @@
+header {
+	background-color: #832693;
+	height: 100px;
+	padding-top: 20px;
+}
+
+#our-website {
+	background:url("computer-1245714_1280.jpg");
+	background-size: cover;
+	height: 500px;
+	border: 1px solid #832693;
+}
+
+.text {
+	color: white;
+	text-align: center;
+	padding-top: 150px;
+	font-size: 70px;
+}
+
+.text2 {
+	color: white;
+	text-align: center;
+	font-size: 70px;
+}
+
+#persons {
+	display: flex;
+	padding-top: 20px;
+	background-color: #D5C0D9;
+	font-size: 25px;
+	width: 600px;
+	height: 300px;
+	margin-bottom: 30px;
+	border-radius: 20px;
+}
+
+#target {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin-top: 20px;
+
+}
+
+#imgs {
+	width: 200px;
+	height: 200px;
+	border-radius: 20px;
+	padding-left: 10px;
+}
+
+
+#heart {
+	height: 40px;
+	align-self: flex-end;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+#likes {
+	align-self: flex-end;
+	font-size: 30px;
+	margin-left: 20px;
+	margin-top: 10px;
+	color: red;
+}
+
+#like {
+	height: 50px;
+	width: 80px;
+	border-radius: 20px;
+	font-size: 20px;
+	align-self: flex-end;
+	margin-bottom: 20px;
+	background-color: #B25ED7;
+
+}
+
+footer img {
+	width: 350px;
+}
+
+footer button {
+	background-color: #d580ff;
+	width: 100%;
+	font-size: 30px;
+	border-radius: 20px;
+	font-style: italic;
+	font-weight: bold;
+	color: white
+}
+
+#about {
+	font-weight: bold;
+		padding-left: 10px;
+}
